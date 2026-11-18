@@ -1,0 +1,14 @@
+# app-ads.txt — Çay Ocağı
+#
+# Bu dosya şu an BOŞ bir şablondur; içinde gerçek satır yok, bu yüzden hiçbir reklam ağına yetki vermez.
+#
+# Yayına çıkarken:
+# 1. Yodo1 MAS panelinde uygulamanı oluştur. Panel sana bu dosyaya yazılacak satırların tamamını verir
+#    (Google AdMob, AppLovin, Unity, Mintegral ve diğer ağlar için ayrı ayrı satırlar).
+# 2. Aşağıdaki "#" ile başlayan örnek satırları silip paneldeki satırları buraya yapıştır.
+# 3. Bu dosya alan adının KÖKÜNDE durmalıdır (örnek: https://enesis-games.github.io/app-ads.txt).
+#    Proje sayfası adresindeki (/cay-ocagi/app-ads.txt) dosyayı reklam ağları okumaz.
+#
+# Satır biçimi: <reklam ağı alan adı>, <yayıncı kimliği>, <DIRECT veya RESELLER>, <sertifika kimliği>
+# Örnek (gerçek değil):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
